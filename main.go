@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("Testing Jenkins 2")
 
 	fmt.Println("In hotfix 300")
+	fmt.Println("Change outside hotfix")
 }
